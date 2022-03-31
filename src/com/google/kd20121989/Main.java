@@ -6,4 +6,8 @@ public class Main {
         System.out.println("Hello, QA.GURU!");
         System.out.println("Another line of text");
     }
+    
+    public static another() {
+        System.out.println("Another method is here!");
+    }
 }
