@@ -7,4 +7,8 @@ public class Main {
         System.out.println("Another line of text");
         System.out.println("Slow branch is arriving");
     }
+    
+    public static another() {
+        System.out.println("Another method is here!");
+    }
 }
