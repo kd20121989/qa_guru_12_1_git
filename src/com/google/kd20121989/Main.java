@@ -8,7 +8,8 @@ public class Main {
         System.out.println("Slow branch is arriving");
     }
     
-    public static another() {
+    public static String another() {
         System.out.println("Another method is here!");
+        return "done";
     }
 }
